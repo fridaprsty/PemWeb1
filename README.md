@@ -1,5 +1,5 @@
 # PemWeb1
- ##Tugas Pemograman Web 1 Membuat sebuah class person dan dua objek
+ ## Tugas Pemograman Web 1 Membuat sebuah class person dan dua objek
 
 tag untuk sebuah class yaitu public clas namaclass
 
